@@ -66,3 +66,7 @@ li {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
+
+.source {
+  text-decoration: none;
+}
